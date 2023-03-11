@@ -24,7 +24,7 @@ public class practice7 {
 		String y="country";
 
 		// do not use substring or length methods or index
-
+System.out.println("its complete project details added");
 
 
 
