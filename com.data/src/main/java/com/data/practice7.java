@@ -8,7 +8,9 @@ public class practice7 {
 		System.out.println("this is full message");
 		System.out.println("this is the main message");
 	}
-	
+	public void m3() {
+		System.out.println("m3 messgae");
+	}
 	public void m1() {
 		System.out.println("m1 method");
 		System.out.println("this method added only for demo purpose");
