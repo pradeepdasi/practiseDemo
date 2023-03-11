@@ -4,6 +4,8 @@ public class practice7 {
 	
 	public void m2() {
 		System.out.println("this is method2");
+		System.out.println("this is start message");
+		System.out.println("this is full message");
 	}
 	
 	public void m1() {
