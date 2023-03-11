@@ -4,6 +4,7 @@ public class practice7 {
 	
 	public void m1() {
 		System.out.println("m1 method");
+		System.out.println("this method added only for demo purpose");
 	}
 
 	public static void main(String[] args) {
