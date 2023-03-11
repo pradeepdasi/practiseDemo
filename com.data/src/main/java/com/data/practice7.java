@@ -5,6 +5,10 @@ public class practice7 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		System.out.println("this is my first project");
+		System.out.println("this is my  second project");
+		System.out.println("this is my third project");
+		
 		//swap two numbers ans swap two strings
 				int a=10;int b=20;
 				a=a+b;//32
