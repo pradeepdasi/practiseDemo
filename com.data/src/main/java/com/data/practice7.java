@@ -8,6 +8,7 @@ public class practice7 {
 		System.out.println("this is my first project");
 		System.out.println("this is my  second project");
 		System.out.println("this is my third project");
+		System.out.println("application in running status");
 		
 		//swap two numbers ans swap two strings
 				int a=10;int b=20;
